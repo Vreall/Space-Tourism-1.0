@@ -1,0 +1,27 @@
+.nameTitle{
+    font-family: 'Bellefair', serif;
+        font-weight: 400;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+}
+@media (min-width: 768px){
+    .nameTitle{
+        font-size: 40px;
+    }
+
+}
+
+@media (min-width: 1300px){
+    .nameTitle{
+        font-size: 56px;
+        
+    }
+
+}
+@media (min-width: 1800px){
+    .nameTitle{
+        font-size: 60px;
+        
+    }
+
+}
