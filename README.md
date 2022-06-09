@@ -1,5 +1,5 @@
 Projekt powstał z layoutu pochodzącego ze strony https://www.frontendmentor.io/ z użyciem React. 
-Live view: https://spacetourismreact.netlify.app/
+Live view: https://spacetourismreact.netlify.app/ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
